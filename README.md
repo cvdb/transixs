@@ -17,4 +17,4 @@ Our plans:
 * Use CQRS to separate read and write models.
 * Use event sourcing to keep a record of WHAT HAPPENED and allow replay
 * Use kubernetes to deploy and manage applications....and allow pollygot development.
-* Develop a GENERIC TRANSACTION PROCESSING systems that would be well suited to payment processing but can be used for other applications.
+* Develop a GENERIC TRANSACTION PROCESSING systems that can be used for various applications such as accounting systems, invoicing, payments etc.
