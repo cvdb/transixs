@@ -4,7 +4,7 @@ new age transaction processing platform made easy
 ### Project Goals
 * Realiable transaction processing
 * Transaction data is generic, sematics remain the same
-* Alwyas know what heappened to each transaction
+* Alwyas know what happened to each transaction
 * Easy to customize and extend
 * Easy to deploy and manage
 * Transaction processing is not tied to reporting
